@@ -38,6 +38,8 @@ ol li {
 	text-align: center;
 	padding-left: 50px;
 	padding-right: 50px;
+	box-shadow: 1px 6px 3px #D3D3D3, -5px 6px 3px #D3D3D3;
+
 }
 .content {
 	text-align: left;
