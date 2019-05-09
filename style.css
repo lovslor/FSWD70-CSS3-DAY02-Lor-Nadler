@@ -39,6 +39,9 @@ ol li {
 	padding-left: 50px;
 	padding-right: 50px;
 }
+.content {
+	text-align: left;
+}
 /* Footer Section */ 
 p {
 	align-content: center;
